@@ -30,7 +30,6 @@ This repository contains the code, data, and model artifacts for the Instagram A
 
 The system programmatically extracts public Instagram profile metadata, computes engineered features, and uses a pre-trained ML classifier to generate a **suspicion score** (0 — likely real, 1 — likely fake). The pipeline supports username or profile URL input, automatic scraping using `instagrapi`, feature alignment, model inference, and human-friendly explanations.
 
-More details and the design rationale are in the project report: **PROJECT REPORT.pdf**. :contentReference[oaicite:2]{index=2}
 
 ---
 
