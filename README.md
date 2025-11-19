@@ -90,6 +90,6 @@ Validation
 
 ## 👩‍💻 Author
 
-Suvetha O
+Suvetha O , Carolrebecca M , Monisha C
 Instagram Fake Profile Detection — ML Project (2025)
 
