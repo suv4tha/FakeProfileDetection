@@ -6,7 +6,7 @@
 
 > Automated system to evaluate public Instagram profiles and produce a **suspicion score** indicating whether an account is likely real or fake.
 
-This repository contains the code, data, and model artifacts for the Instagram Account Authenticity Prediction System. A full project report is available in this repo: **PROJECT REPORT.pdf**. :contentReference[oaicite:1]{index=1}
+This repository contains the code, data, and model artifacts for the Instagram Account Authenticity Prediction System. 
 
 ---
 
