@@ -68,7 +68,7 @@ model = joblib.load("model.pkl")
 score = model.predict_proba([features])[0][1]
 print("Suspicion Score:", score)
 ```
-📊 Dataset
+## 📊 Dataset
 
 The dataset consists of two CSV files containing public Instagram profile metadata used for:
 
@@ -78,19 +78,17 @@ Feature engineering
 
 Validation
 
-🖼️ Screenshots (Placeholders)
+## 🖼️ Screenshots
 
-Add images to docs/images/ and reference them here:
+![Prediction (Real)](Screenshots/Prediction(Real).png)
+![Prediction (Fake)](Screenshots/Prediction(Fake).png)
 
-![Pipeline Diagram](docs/images/pipeline.png)
-![Example Prediction](docs/images/example.png)
+## 📘 Project Report
 
-📘 Project Report
+📄 **[Download Full Project Report](Report/PROJECT%20REPORT.pdf)**
 
-The complete documentation is available in:
-📄 PROJECT REPORT.pdf
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Suvetha O
 Instagram Fake Profile Detection — ML Project (2025)
